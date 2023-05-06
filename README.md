@@ -18,7 +18,7 @@
 
 
 ### Github Stats:
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuan-jun&show_icons=true&theme=swift"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuan-jun&show_icons=true&theme=swift&count_private=true&line_height=40"/> </a>
 
 
 ### Thanks for increasing my visitor count!
